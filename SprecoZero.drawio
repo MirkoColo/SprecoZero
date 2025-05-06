@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Pagina-1" id="tpERnplLeJxcsL3ChmV6">
+    <mxGraphModel dx="2876" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1wRud-rhyuJobZMQSg5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-1" target="p1wRud-rhyuJobZMQSg5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-1" value="SprecoZero" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-2" target="p1wRud-rhyuJobZMQSg5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-2" value="Sviluppo Frontend" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-3" target="p1wRud-rhyuJobZMQSg5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-3" value="Design e Architettura" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-4" target="p1wRud-rhyuJobZMQSg5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-4" target="p1wRud-rhyuJobZMQSg5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-4" value="Analisi e Pianificazione" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-5" target="p1wRud-rhyuJobZMQSg5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-5" value="Sviluppo Backend" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-6" target="p1wRud-rhyuJobZMQSg5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-6" target="p1wRud-rhyuJobZMQSg5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-6" value="Test e Feedback" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-8" target="p1wRud-rhyuJobZMQSg5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-8" target="p1wRud-rhyuJobZMQSg5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-8" target="p1wRud-rhyuJobZMQSg5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-8" value="Marketing e Partnership" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-9" target="p1wRud-rhyuJobZMQSg5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-9" target="p1wRud-rhyuJobZMQSg5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-9" value="Lancio e Ottimizzazione" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-10" value="Analisi di mercato e requisiti" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-11" value="Definizione modello di business" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-12" value="Progettazione&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-14" value="Setup Ambiente di sviluppo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-15" value="Setup DB e autenticazione" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-16" value="API" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-17" value="UI APP Mobile" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-18" value="Test UI" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-19" value="Test Interno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-20" value="Beta Test con utenti selezionati" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-21" value="Creazione sito web dimostrativo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-22" value="Social Media" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-23" value="Contatti con supermercati e ristoranti" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-24" value="Campagna Marketing" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-25" value="Controllo e miglioramenti" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.41;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-3" target="p1wRud-rhyuJobZMQSg5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-5" target="p1wRud-rhyuJobZMQSg5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wRud-rhyuJobZMQSg5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.42;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p1wRud-rhyuJobZMQSg5-2" target="p1wRud-rhyuJobZMQSg5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
